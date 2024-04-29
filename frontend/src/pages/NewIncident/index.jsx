@@ -18,7 +18,7 @@ export default function NewIncident(){
                     </Link>
                 </section>
                 <form>
-                    <input placeholder='Titulo do caso' />
+                    <input placeholder='Titulo da campanha' />
                     <textarea placeholder='Descrição' />
                     <input placeholder='Valor em reais' />
 
